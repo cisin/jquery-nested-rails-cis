@@ -24,7 +24,7 @@ Add this line to your application's Gemfile:
 
 For Rails 3+ apps, add the jquery-nested-rails gem to your Gemfile.
 
-    gem 'jquery-nested-rails'
+    gem 'jquery-nested-rails-cis'
 
 And then execute:
 
