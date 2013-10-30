@@ -241,4 +241,4 @@ To [Jonas Blomdin](http://github.com/jonasblomdin/) for creating Jquery Nested P
 
 The MIT License
 
-Copyright (c) 2013 Anup Pareek See LICENSE for further details.
+Copyright (c) 2013 Cyber Infrastructure Private Limited See LICENSE for further details.
